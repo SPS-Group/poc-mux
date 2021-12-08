@@ -1,0 +1,17 @@
+{
+  "name": "mux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "node src/index.js"
+  },
+  "dependencies": {
+    "@mux/mux-node": "^3.3.1",
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
