@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T14:27:47.002Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Q3UeiroKlK755x3vSEuD" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T14:49:36.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="czDRAOkVz7esHgv3lFgT" version="16.5.3" type="github">
   <diagram id="rDMeDSFnRalvfMuiGiqF" name="Page-1">
-    <mxGraphModel dx="2365" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,32 +67,136 @@
         <mxCell id="moXU9a75B9OwJRrsQW_N-27" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação de Tela de Inicio de Rota de Entrega&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Alterar status para &quot;Em Transito&quot; (pedido e minuta)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="440" y="640" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="moXU9a75B9OwJRrsQW_N-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-29" target="moXU9a75B9OwJRrsQW_N-32">
+        <mxCell id="moXU9a75B9OwJRrsQW_N-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-29" target="moXU9a75B9OwJRrsQW_N-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="moXU9a75B9OwJRrsQW_N-29" value="Botão de Chegada no Cliente" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="moXU9a75B9OwJRrsQW_N-29" value="Chegada no Clliente" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="280" y="730" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="moXU9a75B9OwJRrsQW_N-31" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação de Tela de Chegada no Cliente&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Manter em &quot;Em Transito&quot; no Minuta&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Alterar o status do pedido para &quot;Em Entrega&quot;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="440" y="730" width="290" height="60" as="geometry" />
+        <mxCell id="moXU9a75B9OwJRrsQW_N-31" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação de Tela de Chegada no Cliente&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Manter em &quot;Em Transito&quot; no Minuta&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Alterar o status do pedido para &quot;Em Entrega&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;Como será feita o processo de GPS não está funcionando&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;A tela tem q ter um &quot;Iniciar Entrega&quot;, &quot;Não Entrega&quot; e &quot;Reagendar&quot;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="730" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-32" target="moXU9a75B9OwJRrsQW_N-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="870" />
+              <mxPoint x="240" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="moXU9a75B9OwJRrsQW_N-36" value="Não Entrega" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-34">
-          <mxGeometry x="-0.225" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="moXU9a75B9OwJRrsQW_N-58" value="&lt;font color=&quot;#000000&quot;&gt;Não&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#FF3333;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-34">
+          <mxGeometry x="-0.3019" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-32" target="moXU9a75B9OwJRrsQW_N-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-61" value="sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-60">
+          <mxGeometry x="-0.1397" y="-4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-32" value="Cliente vai receber?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="310" y="830" width="80" height="80" as="geometry" />
+          <mxGeometry x="310" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-33" target="moXU9a75B9OwJRrsQW_N-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-33" value="Realiza a não entrega" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="180" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF0000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-37" target="moXU9a75B9OwJRrsQW_N-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-37" value="o que fazer?&lt;br&gt;Reagendar?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-39" value="&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 11px;&quot;&gt;Manter em &quot;Em Transito&quot; no Minuta&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Alterar o status do pedido para &quot;Não Entrega&quot;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-45" target="moXU9a75B9OwJRrsQW_N-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-52" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-49">
+          <mxGeometry x="0.1044" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-45" target="moXU9a75B9OwJRrsQW_N-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-51" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-50">
+          <mxGeometry x="-0.149" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-45" value="&lt;font color=&quot;#000000&quot;&gt;Está no Local do Cliente?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-46" target="moXU9a75B9OwJRrsQW_N-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-46" value="Processo de Alteração de Status do pedido" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-47" value="&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 11px;&quot;&gt;Manter em &quot;Em Transito&quot; no Minuta&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Alterar o status do pedido para &quot;Em Entrega&quot;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="970" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-48" value="Alerta dizendo que não realizar a Entrega fora do local permitido" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-55" value="Processo de Reagendar" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="610" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-59" target="moXU9a75B9OwJRrsQW_N-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-59" value="Verificar Retorno de Embalagens" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-62" value="&lt;h1 style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;No cadastro do Item nos dados de venda, tem um campo de usuário pra indicar que é um item de Retorno de Embalagens&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1170" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-63" target="moXU9a75B9OwJRrsQW_N-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-70" value="sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-65">
+          <mxGeometry x="-0.4125" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-63" value="Possui itens com Retorno?" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-64" target="moXU9a75B9OwJRrsQW_N-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-64" value="Processo de Conferência de Vasilhames" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-67" value="&lt;h1 style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criar a tela de conferência de Retorno de Vasilhames&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-68" target="moXU9a75B9OwJRrsQW_N-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-75" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontColor=#000000;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-74">
+          <mxGeometry x="-0.5539" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-68" value="Conferência sem erro?" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-73" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
