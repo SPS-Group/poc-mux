@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T14:51:36.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="wMz-psVtVYo11_qhHLEu" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T20:58:09.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="pWphUART8wTF3V3OY27y" version="16.5.3" type="github">
   <diagram id="rDMeDSFnRalvfMuiGiqF" name="Page-1">
-    <mxGraphModel dx="4003" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2570" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="moXU9a75B9OwJRrsQW_N-2" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;- Filial é obrigatória na minuta&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;- Status &quot;Em Aberto&quot;&amp;nbsp; na minuta e os documentos para &quot;Vinculado a Minuta&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;- Status de Liberado para picking quando clicar. no botão &quot;Liberar para picking&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="420" y="80" width="260" height="110" as="geometry" />
+        <mxCell id="moXU9a75B9OwJRrsQW_N-2" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;- Filial é obrigatória na minuta&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;- Status &quot;Em Aberto&quot;&amp;nbsp; na minuta e os documentos para &quot;Vinculado a Minuta&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal ; font-size: 12px&quot;&gt;- Status de Liberado para picking quando clicar. no botão &quot;Liberado para picking&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="110" width="260" height="110" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-4" target="moXU9a75B9OwJRrsQW_N-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-4" value="Criação da Minuta" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="290" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-8" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-5" target="moXU9a75B9OwJRrsQW_N-7">
           <mxGeometry relative="1" as="geometry" />
@@ -20,66 +20,66 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-5" value="LIberado para picking?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="900" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="220" y="195" width="30" height="30" as="geometry" />
+          <mxGeometry x="810" y="225" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-9" target="moXU9a75B9OwJRrsQW_N-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-9" value="Processo de Separação" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-10" target="moXU9a75B9OwJRrsQW_N-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-10" value="Conferência" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-12" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação da Tela pelo Portal&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Ele realiza a separação e informa a Doca.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Informa os lotes FIFO e Localização&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Alterar o status da minuta para &quot;Em Separação&quot; (pedido e Minuta)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="330" height="100" as="geometry" />
+          <mxGeometry x="1010" y="310" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-17" target="moXU9a75B9OwJRrsQW_N-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-17" value="inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="335" y="10" width="30" height="30" as="geometry" />
+          <mxGeometry x="925" y="40" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-19" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação da Tela pelo Portal&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Alterar o status da minuta para &quot;Em Conferência&quot; (pedido e minuta)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="420" y="420" width="290" height="60" as="geometry" />
+          <mxGeometry x="1010" y="450" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-23" target="moXU9a75B9OwJRrsQW_N-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-23" value="Confirmação de Carregamento de Carga pelo Motorista" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="270" y="510" width="160" height="80" as="geometry" />
+          <mxGeometry x="860" y="540" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-25" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação de Tela de Conferência para o Motorista&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Se estiver ok o status vai para &quot;Carregado&quot; (pedido e minuta)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="440" y="530" width="290" height="50" as="geometry" />
+          <mxGeometry x="1030" y="560" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-26" target="moXU9a75B9OwJRrsQW_N-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-26" value="Motorista Inicia a Rota" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="280" y="630" width="140" height="60" as="geometry" />
+          <mxGeometry x="870" y="660" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-27" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação de Tela de Inicio de Rota de Entrega&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Alterar status para &quot;Em Transito&quot; (pedido e minuta)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="440" y="640" width="290" height="50" as="geometry" />
+          <mxGeometry x="1030" y="670" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-29" target="moXU9a75B9OwJRrsQW_N-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-29" value="Chegada no Clliente" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="280" y="730" width="140" height="60" as="geometry" />
+          <mxGeometry x="870" y="760" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-31" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criação de Tela de Chegada no Cliente&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Manter em &quot;Em Transito&quot; no Minuta&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Alterar o status do pedido para &quot;Em Entrega&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;Como será feita o processo de GPS não está funcionando&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;A tela tem q ter um &quot;Iniciar Entrega&quot;, &quot;Não Entrega&quot; e &quot;Reagendar&quot;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="440" y="730" width="280" height="140" as="geometry" />
+          <mxGeometry x="1030" y="760" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-32" target="moXU9a75B9OwJRrsQW_N-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="1110" />
+              <mxPoint x="830" y="1140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,25 +97,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-32" value="Cliente vai receber?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1070" width="80" height="80" as="geometry" />
+          <mxGeometry x="900" y="1100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="moXU9a75B9OwJRrsQW_N-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-33" target="moXU9a75B9OwJRrsQW_N-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="moXU9a75B9OwJRrsQW_N-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#FF0000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="1230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-33" value="Realiza a não entrega" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="moXU9a75B9OwJRrsQW_N-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF0000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-37" target="moXU9a75B9OwJRrsQW_N-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="moXU9a75B9OwJRrsQW_N-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF0000;" edge="1" parent="1" target="moXU9a75B9OwJRrsQW_N-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1200" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-37" value="o que fazer?&lt;br&gt;Reagendar?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-39" value="&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 11px;&quot;&gt;Manter em &quot;Em Transito&quot; no Minuta&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Alterar o status do pedido para &quot;Não Entrega&quot;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1170" width="140" height="70" as="geometry" />
+          <mxGeometry x="900" y="1200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1100" width="40" height="40" as="geometry" />
+          <mxGeometry x="610" y="1130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-45" target="moXU9a75B9OwJRrsQW_N-48">
           <mxGeometry relative="1" as="geometry" />
@@ -134,36 +138,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-45" value="&lt;font color=&quot;#000000&quot;&gt;Está no Local do Cliente?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="310" y="830" width="80" height="80" as="geometry" />
+          <mxGeometry x="900" y="860" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-46" target="moXU9a75B9OwJRrsQW_N-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-46" value="Processo de Alteração de Status do pedido" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="290" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-47" value="&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 11px;&quot;&gt;Manter em &quot;Em Transito&quot; no Minuta&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Alterar o status do pedido para &quot;Em Entrega&quot;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="420" y="970" width="160" height="60" as="geometry" />
+          <mxGeometry x="1010" y="1000" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-48" value="Alerta dizendo que não realizar a Entrega fora do local permitido" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="70" y="840" width="160" height="60" as="geometry" />
+          <mxGeometry x="660" y="870" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-55" value="Processo de Reagendar" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="610" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-59" target="moXU9a75B9OwJRrsQW_N-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-59" value="Verificar Retorno de Embalagens" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-62" value="&lt;h1 style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;No cadastro do Item nos dados de venda, tem um campo de usuário pra indicar que é um item de Retorno de Embalagens&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1170" width="170" height="70" as="geometry" />
+          <mxGeometry x="1190" y="1200" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-63" target="moXU9a75B9OwJRrsQW_N-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="1300" />
+              <mxPoint x="1210" y="1330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,16 +177,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-63" value="Possui itens com Retorno?" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1260" width="80" height="80" as="geometry" />
+          <mxGeometry x="1080" y="1290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-64" target="moXU9a75B9OwJRrsQW_N-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-64" value="Processo de Conferência de Vasilhames" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-67" value="&lt;h1 style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Criar a tela de conferência de Retorno de Vasilhames&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1370" width="150" height="40" as="geometry" />
+          <mxGeometry x="1280" y="1400" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-68" target="moXU9a75B9OwJRrsQW_N-73">
           <mxGeometry relative="1" as="geometry" />
@@ -201,13 +205,201 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-68" value="Conferência sem erro?" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1450" width="80" height="80" as="geometry" />
+          <mxGeometry x="1170" y="1480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-73" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1540" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="moXU9a75B9OwJRrsQW_N-77" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1540" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-80" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;Minuta - U_AHS_Tracking&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;O = Open (Em Aberto)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;P = Picking (Liberado para Picking)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;S = Split (Em Separação)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;C = Conference (Em Conferência)&lt;/div&gt;&lt;div&gt;L = Loaded (Carregado)&lt;/div&gt;&lt;div&gt;T = Transit (Em Trânsito)&lt;/div&gt;&lt;div&gt;F = Finish (Finalizado)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1450" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-81" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;DocMarketing Pedido - U_AHS_Tracking&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;A = Available (Disponível)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;B = Attributed (Atribuído)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;P = Picking (Liberado para Picking)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;S = Split (Em Separação)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;C = Conference (Em Conferência)&lt;/div&gt;&lt;div&gt;L = Loaded (Carregado)&lt;/div&gt;&lt;div&gt;T = Transit (Em Trânsito)&lt;/div&gt;&lt;div&gt;D = Delivering (Em Entrega)&lt;/div&gt;&lt;div&gt;F = Finish (Finalizado)&lt;/div&gt;&lt;div&gt;R = Reschedule (Reagendar)&lt;/div&gt;&lt;div&gt;N = NotDelivery (Não entregue)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="140" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-84" value="Dúvidas:&lt;br&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Precisa ter o cancelar e fechar da minuta?&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;Se sim, o que fazer com os pedidos?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Fazer o tracking de adicionar e remover pedido da minuta?&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Observações:&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Não pode excluir minutas.&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Bloquear via transaction o Fechar.&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="270" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-87" value="Configuração de obrigatoriade de estar no local para fazer não entrega" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="810" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF3333;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-88" target="moXU9a75B9OwJRrsQW_N-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-88" value="Verificar se existe vasilhames para retornar" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="73" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-89" target="moXU9a75B9OwJRrsQW_N-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-121" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#0000FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-91">
+          <mxGeometry x="-0.262" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-89" target="moXU9a75B9OwJRrsQW_N-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-680" y="290" />
+              <mxPoint x="-680" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-122" value="não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#3333FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-99">
+          <mxGeometry x="-0.7156" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-89" value="Existe?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="178" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-90" target="moXU9a75B9OwJRrsQW_N-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-90" value="Abre uma tela de sugestão com os itens para devolver com a quantidade sugerida" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="268" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-94" target="moXU9a75B9OwJRrsQW_N-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-155" y="560" />
+              <mxPoint x="-520" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-94" value="&lt;span&gt;Gerar um pedido de transferencia de estoque&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="470" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-97" target="moXU9a75B9OwJRrsQW_N-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-97" value="Abrir a nota com as informações do pedido" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-615" y="600" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-101" value="Verifica se existem itens com vasilhame ao gravar a nota" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-612" y="710" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-102" target="moXU9a75B9OwJRrsQW_N-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-108" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#3333FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-107">
+          <mxGeometry x="-0.3186" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-102" target="moXU9a75B9OwJRrsQW_N-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-110" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#3333FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-109">
+          <mxGeometry x="-0.4386" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-102" target="moXU9a75B9OwJRrsQW_N-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-102" value="Exitem?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-567" y="805" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-103" target="moXU9a75B9OwJRrsQW_N-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-103" value="Verificar se tem saldo do vasilhame no contrato do cliente" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-452" y="890" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-104" target="moXU9a75B9OwJRrsQW_N-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-114" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#3333FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-113">
+          <mxGeometry x="-0.5293" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-104" target="moXU9a75B9OwJRrsQW_N-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-117" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#3333FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-115">
+          <mxGeometry x="-0.3671" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-104" value="Existe?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-404" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-105" target="moXU9a75B9OwJRrsQW_N-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-527" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-105" value="Efetiva a gravação da Nota" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-587" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-106" target="moXU9a75B9OwJRrsQW_N-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="1160" />
+              <mxPoint x="-70" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-106" value="Exibe mensagem de saldo insuficiente de empréstimo e não grava a nota" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-297" y="1120" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-119" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Não pode incluir itens;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Não pode aumentar a quantidade&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-404" y="645" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-123" target="moXU9a75B9OwJRrsQW_N-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-123" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-539.5" y="-12" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-125" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-384" y="1270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-130" target="moXU9a75B9OwJRrsQW_N-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-134" value="sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#3333FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-132">
+          <mxGeometry x="-0.1704" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#3333FF;" edge="1" parent="1" source="moXU9a75B9OwJRrsQW_N-130" target="moXU9a75B9OwJRrsQW_N-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-135" value="não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#3333FF;" vertex="1" connectable="0" parent="moXU9a75B9OwJRrsQW_N-133">
+          <mxGeometry x="-0.6153" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-130" value="Tem Devolução" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-136" value="&lt;div style=&quot;text-align: left&quot;&gt;Criar relatório para exibir o saldo dos itens (vasilhames)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Consignado&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="640" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-137" value="&lt;div style=&quot;text-align: left&quot;&gt;Parametro por empresa para dizer se vai fazer a checagem do emprestimo&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Parametro de Raio de atendimento por documento (Pedido, nota, etc...)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Criação do processo de transaction&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="612.5" width="300" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-138" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-139" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-140" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-141" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moXU9a75B9OwJRrsQW_N-142" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
